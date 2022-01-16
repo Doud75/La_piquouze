@@ -30,5 +30,6 @@ Sur mac :
    Z et S
 ______________________________________
 <br /> -La demande de l'OS en début de jeu est nécessaire pour que certaines commandes, qui fonctionnent de façon différentes sur MacOS et Windows, puissent être exécutées (clear, getch ...)
+-Windows 11 non supporté 
 
 <br /> -Le jeu a plusieurs fins différentes, dépendant de vos actions au cours de la partie
